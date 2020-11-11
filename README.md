@@ -22,7 +22,7 @@ I provided two datasets, one is Tyson's Corner made by myself, and the other is 
  
 # Framework
 
-#![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+#![Image of Yaktocat](https://github.com/yuanjielu96/Predicting-taffic-speed-based-on-graph-neural-networks/blob/main/picture/framework.png)
 
 For all the information, you can read my master thesis here. Currently it is a draft thesis, but after a few days. You will see the Final version.
 
