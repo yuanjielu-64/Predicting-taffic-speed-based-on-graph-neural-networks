@@ -1,12 +1,12 @@
 # Predicting-taffic-speed-based-on-graph-neural-networks
 
-I have spent one and a half year doing research in Intelligent Transportation System (ITS) with Dr. David Lattanzi. He instructs me to find a novel way do the research. 
-This project is mainly about how to use graph neural network to predict traffic speed based on the influence of roadway maintenance. The code also includes data mining infrastructure and data processing.
+I have spent one and a half years doing research in Intelligent Transportation System (ITS) with Dr. David Lattanzi. He instructs me to find a novel way do the research. 
+This project is mainly about how to use graph neural networks to predict traffic speed based on the influence of roadway maintenance. The code also includes data mining infrastructure and data processing.
 
 # Data
 
-I have spent nearly 60% of time learning the knowledge of deep learning approaches and exploring the data from INRIX and Virginia Department of Transportation. This project is funded by VDOT, which is required to do an analysis of how does workzone impact the traffic area in a region.
-I provided two datasets, one is Tyson's Corner made by myself, and the other is Los-loop dataset.
+I have spent nearly 60% of time learning the knowledge of deep learning approaches and exploring the data from INRIX and the Virginia Department of Transportation. This project is funded by VDOT, which is required to do an analysis of how does work zone impacts the traffic area in a region.
+I provided two datasets, one is Tyson's Corner made by myself, and the other is the Los-loop dataset.
   1. Tyson's Corner:
     131 road sensors
     Jan.1t to Dec.30 in 2019
@@ -27,6 +27,7 @@ I provided two datasets, one is Tyson's Corner made by myself, and the other is 
 # Result
 
 ![Image of TYSON](https://github.com/yuanjielu96/Predicting-taffic-speed-based-on-graph-neural-networks/blob/main/picture/TYSON.png){:height="50%" width="50%"}
+
 ![Image of LOSLOOP](https://github.com/yuanjielu96/Predicting-taffic-speed-based-on-graph-neural-networks/blob/main/picture/STGCN.png){:height="50%" width="50%"}
 
 For all the information, you can read my master thesis here. Currently, it is a draft thesis but after a few days. You will see the final version.
