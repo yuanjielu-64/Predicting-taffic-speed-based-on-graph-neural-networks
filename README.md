@@ -26,8 +26,8 @@ I provided two datasets, one is Tyson's Corner made by myself, and the other is 
 
 # Result
 
-![Image of Framework](https://github.com/yuanjielu96/Predicting-taffic-speed-based-on-graph-neural-networks/blob/main/picture/TYSON.png)
-![Image of Framework](https://github.com/yuanjielu96/Predicting-taffic-speed-based-on-graph-neural-networks/blob/main/picture/STGCN.png)
+![Image of TYSON](https://github.com/yuanjielu96/Predicting-taffic-speed-based-on-graph-neural-networks/blob/main/picture/TYSON.png)
+![Image of LOSLOOP](https://github.com/yuanjielu96/Predicting-taffic-speed-based-on-graph-neural-networks/blob/main/picture/STGCN.png)
 
 For all the information, you can read my master thesis here. Currently it is a draft thesis, but after a few days. You will see the Final version.
 
